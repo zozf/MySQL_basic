@@ -82,4 +82,6 @@ MySQL の基本について
 　(例) 5件だけ絞る  
 　LIMIT 5
 
-・
+・CREATE DATABASE データベース名：データベース作成
+
+・CREATE TABLE テーブル名
